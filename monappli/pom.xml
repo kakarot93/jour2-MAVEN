@@ -27,4 +27,8 @@
 		<module>monappli-service</module>
 		<module>monappli-web</module>
 	</modules>
+	<scm>
+		<connection>scm:git:https://github.com/kakarot93/jour2-MAVEN</connection>
+		<developerConnection>scm:git:https://github.com/kakarot93/jour2-MAVEN</developerConnection>
+	</scm>
 </project>
